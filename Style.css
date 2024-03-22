@@ -1,0 +1,21 @@
+.txt-1{
+    color: black; background-color: aquamarine;
+}
+
+.txt-2{
+    color: rgb(0, 0, 0);background-color: aliceblue;
+}
+.txt-3{
+    color: rgb(255, 0, 0); background-color: beige;
+}
+
+body {
+    background-image: url(fondo_futbol.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.txt-4 {
+    color: rgb(255, 136, 0);
+}
